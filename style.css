@@ -1,0 +1,44 @@
+/*  Reset guidelines/instructions */
+
+*{
+
+}
+
+body	{
+
+}
+img{
+
+	width:40px;
+}
+nav{
+	text-align: center;
+}
+
+div	{border: 2px dashed #39325E	;
+	margin: 20px 40px ;
+	padding: 12px 24px;
+		}
+
+a{
+	text-decoration:none;
+	font-size: 20px;
+	border:2px dashed #39325E ;
+	padding: 4px 8px;
+
+}
+
+a:hover{
+	background: #DEB841;
+}
+main { 
+	border: 2px dashed #39325E	;
+	margin: 20px 40px ;
+	padding: 120px 24px;
+	background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%); 
+ 
+
+ h1	{
+ 	font-size: 90px;
+ 	color: ;
+ }
